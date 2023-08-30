@@ -1,4 +1,4 @@
-### The Commodore 64
+#### The Commodore 64
 
 -**Here is an Image of what the Commodore 64 looks like**
 
