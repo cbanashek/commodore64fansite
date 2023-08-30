@@ -9,7 +9,7 @@
 3. The Commodore 64 is called that because the president of Commodore decided that the Commodore 64 would come with chips would go into a 64- kilobyte home computer
 
 ##-**Different Computer Models like the Commodore 64**
-| Computer      | Date         | Ammount it costs|
+| Computer      | Date          | Ammount it costs|
 | ------------- |:-------------:| -----:|
 | Commodore PET |     1977      | $795  |
 | Commodore 64  |     1982      | $575  |
