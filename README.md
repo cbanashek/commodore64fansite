@@ -2,7 +2,7 @@
 
 - **Here is an Image of what the Commodore 64 looks like**
 
-![alt text](https://en.wikipedia.org/wiki/Commodore_64#/media/File:Commodore-64-Computer-FL.jpg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/e/e9/Commodore-64-Computer-FL.jpg)
 
 - **3 Fun Facts about the Commodore 64**
 1. It was first introduced in 1982
