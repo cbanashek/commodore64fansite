@@ -1,6 +1,7 @@
 ### The Commodore 64
 
 ##-**Here is an Image of what the Commodore 64 looks like**
+
 ![alt text](https://en.wikipedia.org/wiki/Commodore_64#/media/File:Commodore-64-Computer-FL.jpg)
 
 ##-**3 Fun Facts about the Commodore 64**
