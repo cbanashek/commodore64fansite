@@ -6,8 +6,8 @@
 
 - **3 Fun Facts about the Commodore 64**
 1. It was first introduced in 1982
-2. The Commodore 64 was credited often as the intorduction to the computer subculture desmoscene
-3. The Commodore 64 is called that because the president of Commodore decided that the Commodore 64 would come with chips would go into a 64- kilobyte home computer
+2. The Commodore 64 was credited often as the introduction to the computer subculture **desmoscene**
+3. One of the many reasons the Commodore 64 was name the Commodore 64 is because it had a **64 kilobytes of random memory access**
 
 - **Different Computer Models like the Commodore 64**
 | Computer Model| Date          | Ammount it costed|
